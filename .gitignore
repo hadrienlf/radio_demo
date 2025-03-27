@@ -1,0 +1,7 @@
+input_images/
+results/
+__pycache__/
+.env
+.venv/
+*.log
+.DS_Store
